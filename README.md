@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frogerdevs
-- 👀 I’m interested in Web, Desktop, Mobile
-- 🌱 I’m currently learning Blazor
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m experience in Web, Desktop, Mobile
+- 🌱 More than 10 years experience on .Net
+- 💞️ I’m looking for freelance job
 - 📫 How to reach me ...
 
 <!---
